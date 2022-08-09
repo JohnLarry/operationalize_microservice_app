@@ -1,3 +1,11 @@
+(.devops) johnugbor@DESKTOP-VVI531K:/mnt/c/Users/John/Desktop/ALX-devOps/project4/operationalize_microservice_project$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "udacity-project-four-jaya" already exists  
+NAME                        READY   STATUS    RESTARTS   AGE
+udacity-project-four-jaya   1/1     Running   0          74s
+Forwarding from 127.0.0.1:8000 -> 80
+Handling connection for 8000
+
+
 (.devops) johnugbor@DESKTOP-VVI531K:/mnt/c/Users/John/Desktop/ALX-devOps/project4/operationalize_microservice_project$ ./make_prediction.sh
 Port: 8000
 {

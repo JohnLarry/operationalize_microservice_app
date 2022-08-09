@@ -23,4 +23,4 @@ kubectl get po
 # Step 4:
 # Forward the container port to a host
 
-kubectl port-forward --address  127.0.0.1 pod/udacity-project-four-jay 8000:80
+kubectl port-forward --address  127.0.0.1 pod/udacity-project-four-jaya 8000:80
