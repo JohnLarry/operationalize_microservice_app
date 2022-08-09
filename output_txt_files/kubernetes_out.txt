@@ -1,1 +1,7 @@
-<paste log output from Kubernetes-mediated prediction, here>
+(.devops) johnugbor@DESKTOP-VVI531K:/mnt/c/Users/John/Desktop/ALX-devOps/project4/operationalize_microservice_project$ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
